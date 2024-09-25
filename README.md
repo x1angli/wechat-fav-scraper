@@ -22,4 +22,8 @@
 
 * In WeChat, make sure use "system browser", instead of WeChat's embedded browser （确保设置中勾选“系统默认浏览器”，而非使用微信）
 * Close All Existing Chrome Instances, to ensure that no other Chrome processes are running to prevent conflicts.
+* Open WeChat on Windows and logon your account. 
+
+## Run!
+* 
 
