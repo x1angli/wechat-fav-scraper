@@ -1,0 +1,6 @@
+
+psutil
+pywinauto
+
+pypandoc
+

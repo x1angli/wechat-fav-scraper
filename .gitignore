@@ -1,0 +1,28 @@
+# Application Data
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Poetry
+poetry.lock
+
+# PyCharm
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
